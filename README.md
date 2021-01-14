@@ -1,5 +1,6 @@
-# 101 Things in 1001 Days
-## JAN 01, 2020 - SEP 28, 2022 
+# 101 Things in 1001 Days [0/35]
+## JAN 01, 2021 - SEP 28, 2023 
+
 
 ### Kayaking
 - [ ] Pass my FSRT
@@ -25,6 +26,8 @@
 - [ ] Blackburn parkrun
 - [ ] Whinlatter forest parkrun
 - [ ] Run the Gerry Charnley
+### Swimming
+- [ ] Do the Hurly Burly 10k
 ### Climbing
 - [ ] Do a learn to lead course
 - [ ] Boulder outdoors
@@ -39,5 +42,6 @@
 - [ ] Move house
 ### Welsh
 - [ ] Finish SSiW level 2
+- [ ] Finish SSiW level 3
 - [ ] Volunteer at the National Eisteddfod 
 - [ ] Complete Basic Grammar workbook
