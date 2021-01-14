@@ -1,8 +1,8 @@
-# 101 Things in 1001 Days [0/35]
+# 101 Things in 1001 Days [0/36]
 ## JAN 01, 2021 - SEP 28, 2023 
 
 
-### Kayaking
+### Kayaking :rowboat:
 - [ ] Pass my FSRT
 - [ ] Pass my Paddlesport Instructor
 - [ ] Do VHF training
@@ -14,33 +14,41 @@
 - [ ] Kayak and camp on Peel Island
 - [ ] Sea kayak around the Llŷn Peninsula
 - [ ] Kayak the Argyll Sea Kayak trail or The Great Glen Canoe trail
-### Cycling
+
+### Cycling :biking_woman:
 - [ ] Cycle to pick your own fruit
 - [ ] Cycle to Llangwnadl
 - [ ] Cycle 100 miles in one day
 - [ ] Cycle the N500
-### Running
+
+### Running :running_woman:
+- [ ] 3 runs a week for 12 weeks
 - [ ] Join the Parkrun 50 club
 - [ ] Complete an Ultra
-- [ ] Blackpool parkrun by train
+- [ ] Blackpool parkrun
 - [ ] Blackburn parkrun
 - [ ] Whinlatter forest parkrun
 - [ ] Run the Gerry Charnley
-### Swimming
+
+### Swimming :swimming_woman:
 - [ ] Do the Hurly Burly 10k
-### Climbing
+
+### Climbing :climbing_woman:
 - [ ] Do a learn to lead course
 - [ ] Boulder outdoors
 - [ ] Climb at Castleberg Crag, Settle
-### Adventure
+
+### Adventure :sunrise_over_mountains:
 - [ ] Go on a bike packing trip
 - [ ] Wild camp with James
 - [ ] Visit Ireland
 - [ ] Visit the highlands
 - [ ] Mosedale bothy walk
-### Life
+
+### Life :house_with_garden:
 - [ ] Move house
-### Welsh
+
+### Welsh :wales:
 - [ ] Finish SSiW level 2
 - [ ] Finish SSiW level 3
 - [ ] Volunteer at the National Eisteddfod 
