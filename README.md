@@ -5,7 +5,7 @@
 ### Kayaking :rowboat:
 - [ ] Pass my FSRT
 - [ ] Pass my Paddlesport Instructor
-- [ ] Do VHF training
+- [ ] Pass my VHF training
 - [ ] Pass my Sea Kayak Award
 - [ ] Pass my Coastal Sea Kayak Award
 - [ ] Pass my White Water Award
@@ -16,6 +16,7 @@
 - [ ] Kayak the Argyll Sea Kayak trail or The Great Glen Canoe trail
 
 ### Cycling :biking_woman:
+- [ ] Cycle the Bowland classic
 - [ ] Cycle to pick your own fruit
 - [ ] Cycle to Llangwnadl
 - [ ] Cycle 100 miles in one day
