@@ -10,6 +10,7 @@
 - [ ] Pass my Coastal Sea Kayak Award
 - [ ] Pass my White Water Award
 - [ ] Kayak from Porth Colmon
+- [ ] Complete Ravenglass Seaquest
 - [ ] Learn to roll
 - [ ] Kayak and camp on Peel Island
 - [ ] Sea kayak around the Llŷn Peninsula
