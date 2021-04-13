@@ -1,4 +1,4 @@
-# 101 Things in 1001 Days [0/38]
+# 101 Things in 1001 Days [1/38]
 ## JAN 01, 2021 - SEP 28, 2023 
 
 
