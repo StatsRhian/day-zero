@@ -3,7 +3,7 @@
 
 
 ### Kayaking :rowboat:
-- [ ] Pass my FSRT
+- [x] Pass my FSRT
 - [ ] Pass my Paddlesport Instructor
 - [x] Pass my VHF training
 - [ ] Pass my Sea Kayak Award
