@@ -25,7 +25,7 @@
 - [ ] Cycle the N500
 
 ### Running :running_woman:
-- [ ] 3 runs a week for 12 weeks
+- [x] 3 runs a week for 12 weeks
 - [ ] Join the Parkrun 50 club
 - [ ] Complete an Ultra
 - [ ] Blackpool parkrun
