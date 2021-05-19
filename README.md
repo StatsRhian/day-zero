@@ -40,6 +40,7 @@
 - [ ] Do a learn to lead course
 - [ ] Boulder outdoors
 - [ ] Climb at Castleberg Crag, Settle
+- [ ] Attend the [Women in Trad](https://www.womenstradfestival.co.uk/) festival
 
 ### Adventure :sunrise_over_mountains:
 - [ ] Go on a bike packing trip
