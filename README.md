@@ -9,7 +9,7 @@
 - [ ] Pass my Sea Kayak Award
 - [ ] Pass my Coastal Sea Kayak Award
 - [ ] Pass my White Water Award
-- [ ] Pass Coastal Navigation and Tidal Planning
+- [x] Pass Coastal Navigation and Tidal Planning
 - [ ] Kayak from Porth Colmon
 - [ ] Complete Ravenglass Seaquest
 - [ ] Learn to roll
