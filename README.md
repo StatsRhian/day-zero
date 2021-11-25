@@ -44,7 +44,7 @@
 
 ### Adventure :sunrise_over_mountains:
 - [ ] Go on a bike packing trip
-- [ ] Wild camp with James
+- [x] Wild camp with James
 - [ ] Visit Ireland
 - [ ] Visit the highlands
 - [ ] Mosedale bothy walk
