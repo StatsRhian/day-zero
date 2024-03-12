@@ -1,3 +1,6 @@
+I've migrated my day-zero to my personal Notion.
+
+
 # 101 Things in 1001 Days [4/38]
 ## JAN 01, 2021 - SEP 28, 2023 
 
